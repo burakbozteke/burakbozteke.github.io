@@ -26,8 +26,13 @@ reddit:
   baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
 
+google-plus:
+  name: "Google+"
+  baseURL: "https://plus.google.com/"
+  icon: "fa-google-plus"
+
 email:
-  name: "Email me"
+  name: "E-posta"
   baseURL: "mailto:"
   icon: "fa-envelope"
 
@@ -72,8 +77,8 @@ telephone:
   icon: "fa-phone"
 
 rss:
-  name: "RSS"
-  baseURL: "{{ '/feed.xml' | relative_url }}"
+  name: "RSS Beslemesine Abone Olun"
+  baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
   icon: "fa-rss"
 
 steam:
