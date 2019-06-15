@@ -8,7 +8,7 @@
 
 {% if any-share-links %}
 <section id = "social-share-section">
-  <span class="sr-only">Paylaş: </span>
+  <span class="sr-only">Share: </span>
 
   {% if site.share-links-active.twitter %}
   <!--- Share on Twitter -->
@@ -25,15 +25,6 @@
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
-    </a>
-  {% endif %}
-
-  {% if site.share-links-active.google %}
-  <!--- Share on Google Plus -->
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-google" title="Share on Google+">
-      <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
-      <span class="sr-only">Google+</span>
     </a>
   {% endif %}
 

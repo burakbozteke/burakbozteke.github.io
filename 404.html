@@ -1,12 +1,13 @@
-<html>
-<head>
-<title> Sayfa Bulunamadı </title>
-</head>
-<body>
+---
+layout: default
+title: 404 - Page not found
+permalink: /404.html
+---
+
 <div class="text-center">
-  <h1>Üzgünüm, bu sayfa şu anda mevcut değil!</h1>
-  <p>Girmeye çalıştığınız sayfa şu anda kullanılabilir değil. <a href="{{ site.url }}">Ana sayfa</a>'ya gidebilir ya da <a href="https://denemedefteri.com/iletisim">İletişim</a> bölümünden beni bu konuda bilgilendirebilirsiniz.</p>
+  <h1>Whoops, this page doesn't exist.</h1>
+  <h1>Move along. (404 error)</h1>
   <br/>
 
-  <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
+  <img src="{{ 'img/404-southpark.jpg' | relative_url }}" />
 </div>

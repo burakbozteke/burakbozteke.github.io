@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 'Kategoriler'
-permalink: 'kategori'
+title: 'Tag Index'
 ---
 
 {%- capture site_tags -%}
@@ -26,7 +25,7 @@ permalink: 'kategori'
             <div class="tag-entry">
                 <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
                 <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%d.%m.%Y" }}</time>
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%B %d, %Y" -}}</time>
                 </div>
             </div>
         {%- endfor -%}
