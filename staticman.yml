@@ -6,7 +6,7 @@ iletisim:
   format: "yaml"
   moderation: false
   pullRequestBody: "[{fields.isim}]({fields.eposta}), {field.baslik} konulu mesajını yayımladı:\n\n{fields.mesaj}"
-  name: "denemedefteri.com"
+  name: "burakbozteke.tk"
   path: "_data/iletisim"
   requiredFields: ["isim","eposta","baslik","mesaj",]
 
