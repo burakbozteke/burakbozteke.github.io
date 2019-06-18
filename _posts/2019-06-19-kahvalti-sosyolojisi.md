@@ -1,10 +1,10 @@
 ---
-title: Fırsatımız Var
+title: Kahvaltı Sosyolojisi
 tags: [Sosyoloji]
 ---
 
 Yazar:
-[Kadir Ahıska](https://www.facebook.com/profile.php?id=100003225502368)
+- [Kadir Ahıska](https://www.facebook.com/profile.php?id=100003225502368)
 
 okuldan çıktık; yoğun felsefe katılmış, birazda sosyoloji ile yoğrulmuş kıvamında bir ders çıkışı, daha erken olduğu için kahvaltı etmeye gelmiştik buraya... Her şey çok güzel; işini en güzelinden yapmaya çalışan görevliler, yemeğin en iyisini hazırlamak için durmadan çalışan aşçılar ve biz müşteriler...
 Neyse kahvaltımız geldi ve başladık tüketmeye. Tam yedikten sonra, aklıma evimde hazırlanan kahvaltılar geldi; çoğu zaman canım istemiyor düşüncesi ile azar azar tükettiğim, çoğu zamanda farklı yiyecekleri bulunca tüketmekten vazgeçtiğim kahvaltı sofrasını hatırladım bir süre. oysaki oradada herşey vardı; hatta belki bu masadan daha fazlası konuluyordu evde soframıza. Fakat yukarıda da ifade ettiğim gibi kimi zaman peynire bile dokunmazken, kimi zamansa istemediğimizi düşünerek yapmazdık evde kahvaltımızı. oysaki burada öylemi? tabağı silip süpürdüm, tadından hazzetmediğim zeytini bile tükettim bu masada ben.
