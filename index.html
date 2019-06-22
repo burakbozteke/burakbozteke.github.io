@@ -2,7 +2,7 @@
 layout: page
 title: Ana Sayfa
 subtitle: Eğer hayatın kitabını okuyorsanız, bir kitap ayracı koyun ve bir yandan da buradaki yazıları okumaya başlayın
-use-site-title: true
+use-site-title: false
 ---
 
 <div class="posts-list">
@@ -19,8 +19,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      {{ post.date | date: "%d.%m.%Y" }} tarihinde yazıldı
-    <a href="{{ post.yazar.link }}"> {{ post.yazar.ad }} </a> tarafından yazıldı.
+      {{ post.date | date: "%d.%m.%Y" }} tarihinde <a href="{{ post.yazar.link }}"> {{ post.yazar.ad }} </a> tarafından yazıldı.
     	</p>
 
     <div class="post-entry-container">
