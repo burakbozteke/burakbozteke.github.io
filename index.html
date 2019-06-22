@@ -20,7 +20,8 @@ use-site-title: true
 
     <p class="post-meta">
       {{ post.date | date: "%d.%m.%Y" }} tarihinde yazıldı
-    </p>
+    <a href="{{ post.yazar.link }}"> {{ post.yazar.ad ]] </a> tarafından yazıldı.
+    	</p>
 
     <div class="post-entry-container">
       {% if post.image %}

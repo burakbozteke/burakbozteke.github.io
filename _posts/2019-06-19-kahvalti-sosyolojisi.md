@@ -1,6 +1,9 @@
 ---
 title: Kahvaltı Sosyolojisi
 tags: [Sosyoloji]
+yazar:
+  ad: Kadir Ahıska
+  link: https://www.facebook.com/profile.php?id=100003225502368
 ---
 
 Yazar:
