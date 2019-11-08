@@ -16,7 +16,12 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
-twitter:
+whatsapp:
+  name: "WhatsApp"
+  baseURL: "https://www.whatsapp.com/"
+  icon: "fa-whatsapp"
+  
+ twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
