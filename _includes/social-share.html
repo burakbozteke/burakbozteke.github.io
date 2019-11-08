@@ -44,6 +44,14 @@
       <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
       <span class="sr-only">LinkedIn</span>
     </a>
+
+
+  {% if site.share-links-active.whatsapp %}
+  <!--- Share on WhatsApp -->
+<a href="whatsapp://send?text=<?php the_permalink();?>&t=<?php the_title(); ?>" data-action="share/whatsapp/share">      class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp"
+      <span class="fa fa-fw fa-whatsapp" aria-hidden="true"></span>
+      <span class="sr-only">WhatsApp</span>
+    </a>
   {% endif %}
 
 </section>
