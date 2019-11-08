@@ -30,8 +30,8 @@
 
   {% if site.share-links-active.whatsapp %}
   <!--- Share on WhatsApp -->
-<a href="whatsapp://send?text=<{{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp">
+<a href="whatsapp://send?text={{ site.url }}{{ page.url }}"
+       class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp">
       <span class="fa fa-fw fa-whatsapp" aria-hidden="true"></span>
       <span class="sr-only">WhatsApp</span>
     </a>
