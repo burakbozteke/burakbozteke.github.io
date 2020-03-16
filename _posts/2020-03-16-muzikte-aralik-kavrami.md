@@ -6,8 +6,8 @@ yazar:
   link: https://www.instagram.com/burak_bozteke
 ---
 
-Herkese merhaba arkadaşlar. Bugünün konusu müziğin temel taşı olan aralık kavramı... Gelin bunları hep beraber başlıklar altında inceleyelim.
-
+Herkese merhaba arkadaşlar. Bugünün konusu müziğin temel taşı olan aralık kavramı... Gelin bunları hep beraber başlıklar altında inceleyelim.  
+  mjawsd
 ## Aralıklar
 
 İki nota arasındaki mesafe "Aralık" olarak adlandırılır. Arka arkaya duyulan iki ses arasındaki mesafe, "melodik aralık"olarak, aynı anda duyulan iki ses arasındaki mesafe ise "armonik aralık" olarak tanımlanır.
@@ -29,10 +29,10 @@ Herhangi bir majör ve minör gamın içindeki sesler arasındaki aralıklara de
 Majör gamın 4. ve 7. sesleri, minör gamın 2. ve 6. sesleri arasındaki ilişki bu tanımın dışında kalır.
  Tam, majör ve minör olmak üzere 3 adet diyatonik aralık vardır.
 Tam Aralıklar: 4 aralığı tam aralık olarak adlandırıyoruz:
-> Unison: 2 farklı ses kaynağının verdiği aynı frekanstaki sestir. Örneğin gitar ve keman unison çalsın dendiğinde iki enstrüman aynı frekanstaki notayı çalar.
-> Tam 4'lü (T4): 5 yarım sesten oluşur. Herhangi bir majör ve minör gamın 1. ve 4. sesi arasındaki aralıktır.
-> Tam 5'li (T5): 7 yarım sesten oluşur. Herhangi bir majör ve minör gamın 1. ve 5. sesi arasındaki aralıktır.
-> Oktav (Tam 8'li): 12 yarım sesten oluşur. Herhangi bir gamın ilk ve son sesi arasındaki aralıktır.
+* Unison: 2 farklı ses kaynağının verdiği aynı frekanstaki sestir. Örneğin gitar ve keman unison çalsın dendiğinde iki enstrüman aynı frekanstaki notayı çalar.
+* Tam 4'lü (T4): 5 yarım sesten oluşur. Herhangi bir majör ve minör gamın 1. ve 4. sesi arasındaki aralıktır.
+* Tam 5'li (T5): 7 yarım sesten oluşur. Herhangi bir majör ve minör gamın 1. ve 5. sesi arasındaki aralıktır.
+* Oktav (Tam 8'li): 12 yarım sesten oluşur. Herhangi bir gamın ilk ve son sesi arasındaki aralıktır.
  
 Bu aralıklara tam denmesinin nedeni, bir sesin ilk 3 doğuşkan sesini bu aralıkların oluşturmasıdır.
 
@@ -160,12 +160,12 @@ Yukarıda öğrendiğimiz aralıkları olması gerekenden küçültürsek eksik,
 Eksik ya da artık aralıklarda kaçlı aralık olduğunu bilmeliyiz. Kaç notamız varsa artıklık ya da eksiklik nota sayısına bağlıdır.
 Birkaç örnek verip yazıyı sonlandırmak istiyorum.
 
-> Mi / la diyez - Artık dörtlü
-> Mi / la bemol - Eksik dörtlü
-> do / re diyez - Artık ikili
-> Fa / la bemol - Eksik üçlü
-> Mi / re bemol - Eksik yedili
-> Do / la diyez - Artık altılı
+* Mi / la diyez - Artık dörtlü
+* Mi / la bemol - Eksik dörtlü
+* do / re diyez - Artık ikili
+* Fa / la bemol - Eksik üçlü
+* Mi / re bemol - Eksik yedili
+* Do / la diyez - Artık altılı
 
 ----------
 
