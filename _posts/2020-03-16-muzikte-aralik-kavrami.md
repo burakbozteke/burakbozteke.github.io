@@ -163,7 +163,6 @@ Birkaç örnek verip yazıyı sonlandırmak istiyorum.
 * Mi / la diyez - Artık dörtlü
 * Mi / la bemol - Eksik dörtlü
 * do / re diyez - Artık ikili
-* Fa / la bemol - Eksik üçlü
 * Mi / re bemol - Eksik yedili
 * Do / la diyez - Artık altılı
 
